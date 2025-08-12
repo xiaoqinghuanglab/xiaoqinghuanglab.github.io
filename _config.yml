@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Research Lab Information"
+title                    : "Research Hub"
 title_separator          : "-"
 name                     : &name "Xiaoqing Huang, Ph.D"
-description              : &description "personal description"
+description              : &description "My research focuses on developing advanced statistical methodologies, machine learning models, and artificial intelligence techniques, including deep learning and large language models, to enhance the understanding of complex biological systems and advance drug development. I am trained in both theoretical and applied statistics during their doctoral studies at Indiana University, bringing additional expertise from prior roles at the U.S. Food and Drug Administration (FDA) and the National Institutes of Health (NIH). I have a broad range of research projects spanning Alzheimer’s disease, oncology, and real-world data analytics. Besides, I am collaborating with Eli Lilly to support Phase III clinical trials, contributing statistical insight to ensure trial rigor and regulatory alignment. Currently, my active research projects in method development involving longitudinal data modeling, text data mining, imaging biomarker identification, interpretability-enhanced AI, and multimodal data integration, which bridges statistical innovation with practical impact in clinical research and biomedical science."
 url                      : "https://xiaoqinghuanglab.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "https://xiaoqinghuanglab.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "xiaoqinghuanglab.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "xiaoqinghuanglab/xiaoqinghuanglab.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0003-2183-8398"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "xiaoqinghuanglab"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
